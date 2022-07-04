@@ -20,7 +20,7 @@ source /opt/ros/foxy/setup.bash
 python3 camera_node.py
 ```
 
-**Terminal 2:** Run java program to send which sends the image to MAHURI app:
+**Terminal 2:** Run java program which sends the image to MAHURI app:
 ```bash
 java sendImage
 ```
