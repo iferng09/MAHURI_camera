@@ -14,13 +14,13 @@ cd MAHURI_camera/camera_node
 
 Open two terminals:
 
-**Terminal 1: ** Run camera node:
+**Terminal 1:** Run camera node:
 ```bash
 source /opt/ros/foxy/setup.bash
 python3 camera_node.py
 ```
 
-**Terminal 2: ** Run java program to send which sends the image to MAHURI app:
+**Terminal 2:** Run java program to send which sends the image to MAHURI app:
 ```bash
 java sendImage
 ```
