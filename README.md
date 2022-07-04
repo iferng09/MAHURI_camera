@@ -2,15 +2,13 @@
 
 Camera node for MAHURI Android app.
 
-## Dependencies
-
-### Clonning the repository
+## Clonning the repository
 ```bash
 git clone https://github.com/iferng09/MAHURI_camera
 cd MAHURI_camera/camera_node
 ```
 
-### Running camera_node and sendImage nodes:
+## Running camera_node and sendImage nodes:
 
 Open two terminals:
 
